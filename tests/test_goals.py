@@ -1,5 +1,5 @@
 import pytest
-from src.goals import max_window_sum, count_goal_windows, longest_rising_streak
+from goals import max_window_sum, count_goal_windows, longest_rising_streak
 
 
 def test_max_window_sum_basic():
